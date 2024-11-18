@@ -1,0 +1,3 @@
+class Spanwer {
+  constructor() {}
+}
